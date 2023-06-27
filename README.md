@@ -50,22 +50,22 @@
 * [Jiwan Repository (N/A)](https://github.com/)
 
 ### 김동현
-* [Donghyun Repository](https://github.com/)
+* [Donghyun Repository (N/A)](https://github.com/)
 
 ### 김현철  
-* [Hyeoncheol Repository](https://github.com/)
+* [Hyeoncheol Repository (N/A)](https://github.com/)
 
 ### 박상우
-* [Sangwoo Repository](https://github.com/)  
+* [Sangwoo Repository (N/A)](https://github.com/)  
 
 ### 유혜원
-* [Hyewon Repository](https://github.com/)  
+* [Hyewon Repository (N/A)](https://github.com/)  
 
 ### 박상민  
-* [Sangmin Repository](https://github.com/)  
+* [Sangmin Repository (N/A)](https://github.com/)  
 
 ### 최서웅  
-* [Seowoong Repository](https://github.com/)    
+* [Seowoong Repository (N/A)](https://github.com/)    
 
 ### 박진혁  
 * [Jinhyeok Repository (N/A)](https://github.com/)  
