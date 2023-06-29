@@ -53,7 +53,7 @@
 * [Donghyun Repository (N/A)](https://github.com/)
 
 ### 김현철  
-* [Hyeoncheol Repository (N/A)](https://github.com/)
+* [Hyeoncheol Repository](https://github.com/hhhhnFe/DSAIL_2023_Summer.git)
 
 ### 박상우
 * [Sangwoo Repository (N/A)](https://github.com/)  
@@ -74,4 +74,4 @@
 * [Geonwoo Repository (N/A)](https://github.com/)  
 
 ### 한석원
-* [Sukwon Repository (N/A)](https://github.com/)  
+* [Seokwon Repository](https://github.com/SeokwonHan02/2023-summer-internship.git)  
