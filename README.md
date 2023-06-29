@@ -59,7 +59,7 @@
 * [Sangwoo Repository (N/A)](https://github.com/)  
 
 ### 유혜원
-* [Hyewon Repository (N/A)](https://github.com/)  
+* [Hyewon Repository](https://github.com/hyewwn/2023-summer-internship-DSAIL)  
 
 ### 박상민  
 * [Sangmin Repository (N/A)](https://github.com/)  
