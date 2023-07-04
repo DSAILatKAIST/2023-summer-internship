@@ -59,7 +59,7 @@
 * [Hyewon Repository](https://github.com/hyewwn/2023-summer-internship-DSAIL)  
 
 ### 박상민  
-* [Sangmin Repository (N/A)](https://github.com/)  
+* [Sangmin Repository](https://github.com/ParkSangmin3246/2023_DSAIL_INTERNSHIP.git)  
 
 ### 최서웅  
 * [Seoung Repository (N/A)](https://github.com/)    
