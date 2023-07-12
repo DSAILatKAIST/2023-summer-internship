@@ -27,11 +27,11 @@
 | 2017 | [metapath2vec : Scalable Representation Learning for Heterogeneous Networks](https://dl.acm.org/doi/10.1145/3097983.3098036)| Metapath2Vec | 김현철 | [Slide](./slides/Metapath2Vec.pdf) | 
 | 2018 | [Deep Graph Infomax](https://arxiv.org/abs/1809.10341)| DGI | 박상우 | [Slide](./slides/DGI.pdf) |
 | 2017 | [Inductive Representation Learning on Large Graphs](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)| GraphSAGE | 유혜원 | [Slide](./slides/GraphSAGE.pdf) | 
-| 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)| VAE | 박상민 | [Slide](./slides/VAE_VGAE.pdf) |
-| 2016 | [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)| VGAE | 박상민 | [Slide](./slides/VAE_VGAE.pdf) |
+| 2013 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)| VAE | 박진혁 | [Slide](./slides/VAE_VGAE.pdf) |
+| 2016 | [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)| VGAE | 박진혁 | [Slide](./slides/VAE_VGAE.pdf) |
 | 2016 | [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf)| Youtube | 최서웅 | [Slide](./slides/Youtube.pdf) |
-| 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 박진혁 | [Slide](./slides/ConvMF_Autorec.pdf) |
-| 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF | 박진혁 | [Slide](./slides/ConvMF_Autorec.pdf) |
+| 2015 | [AutoRec: Autoencoders Meet Collaborative Filtering](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)| Autorec | 박상민 | [Slide](./slides/ConvMF_Autorec.pdf) |
+| 2015 | [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://dl.acm.org/doi/10.1145/2959100.2959165)| ConvMF | 박상민 | [Slide](./slides/ConvMF_Autorec.pdf) |
 | 2017 | [Augmentation-Free Self-Supervised Learning on Graphs](https://arxiv.org/abs/2112.02472)| AFGRL | 김건우 | [Slide](./slides/AFGRL.pdf) |
 
 
@@ -53,7 +53,7 @@
 * [Hyunchul Repository](https://github.com/hhhhnFe/DSAIL_2023_Summer.git)
 
 ### 박상우
-* [Sangwu Repository (N/A)](https://github.com/)  
+* [Sangwu Repository](https://github.com/sangwu99/2023-Summer-Internship-DSAIL)  
 
 ### 유혜원
 * [Hyewon Repository](https://github.com/hyewwn/2023-summer-internship-DSAIL)  
