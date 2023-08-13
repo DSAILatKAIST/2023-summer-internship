@@ -22,8 +22,8 @@
 | 2017 | [Collaborative Metric Learning](https://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)| CML | 박진혁 | [Slide](./slides/CML.pdf) |
 | 2010 | [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)| FM | 김건우 | [Slide](./slides/FM.pdf)|
 | 2016 | [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)| WD | 한석원 | [Slide](./slides/WD.pdf) |
-| 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | 김지완 | [Slide](./slides/SoRec.pdf) |
-| 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg | 김지완 | [Slide](./slides/SoRec.pdf) |
+| 2008 | [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1458082.1458205)| SoRec | 김지완 | [Slide](./slides/SoRec_Reg.pdf) |
+| 2011 | [Recommender Systems with Social Regularization](https://dennyzhou.github.io/papers/RSR.pdf)| SoReg | 김지완 | [Slide](./slides/SoRec_Reg.pdf) |
 | 2017 | [metapath2vec : Scalable Representation Learning for Heterogeneous Networks](https://dl.acm.org/doi/10.1145/3097983.3098036)| Metapath2Vec | 김현철 | [Slide](./slides/Metapath2Vec.pdf) | 
 | 2018 | [Deep Graph Infomax](https://arxiv.org/abs/1809.10341)| DGI | 박상우 | [Slide](./slides/DGI.pdf) |
 | 2017 | [Inductive Representation Learning on Large Graphs](https://papers.nips.cc/paper/2017/file/5dd9db5e033da9c6fb5ba83c7a7ebea9-Paper.pdf)| GraphSAGE | 유혜원 | [Slide](./slides/GraphSAGE.pdf) | 
@@ -47,7 +47,7 @@
 
 ## Team Introduction (Lab Interns)  
 ### 김지완
-* [Jiwan Repository (N/A)](https://github.com/)
+* [Jiwan Repository)](https://github.com/ptkjw1997/2023-summer-internship-DSAIL)
 
 ### 김현철  
 * [Hyunchul Repository](https://github.com/hhhhnFe/DSAIL_2023_Summer.git)
