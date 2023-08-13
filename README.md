@@ -47,7 +47,7 @@
 
 ## Team Introduction (Lab Interns)  
 ### 김지완
-* [Jiwan Repository)](https://github.com/ptkjw1997/2023-summer-internship-DSAIL)
+* [Jiwan Repository](https://github.com/ptkjw1997/2023-summer-internship-DSAIL)
 
 ### 김현철  
 * [Hyunchul Repository](https://github.com/hhhhnFe/DSAIL_2023_Summer.git)
